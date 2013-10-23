@@ -4,7 +4,7 @@ A MindShaft game. http://mindshaftgames.appspot.com/
 
 A bloodly blend of survival horror, tower-defense and crafting! The prototype is to be submitted as my April entry for http://www.onegameamonth.com/ and will be expanded upon depending on the success of the prototype.
 
-** This project has been put on hold for the time being in favor of another project **
+**This project has been put on hold for the time being in favor of another project*
 
 Plugins used credit:
 * eventChain.js - https://github.com/drhayes/impactjs-eventchain
