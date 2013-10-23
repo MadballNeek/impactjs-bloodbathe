@@ -6,7 +6,7 @@ A bloodly blend of survival horror, tower-defense and crafting! The prototype is
 
 **This project has been put on hold for the time being in favor of another project**
 
-Requires a ImpactJS license to compile &amp; run.
+Requires a ImpactJS license to run locally.
 http://impactjs.com/
 
 Plugins used credit:
